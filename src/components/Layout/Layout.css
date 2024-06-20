@@ -1,0 +1,27 @@
+/* src/components/Layout/Layout.css */
+
+
+
+.layout {
+    display: flex;
+}
+
+.side-menu {
+    width: 200px;
+    background-color: rgba(128, 128, 128, 0.479);
+    padding: 15px;
+}
+
+.side-menu nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.side-menu nav ul li {
+    margin-bottom: 10px;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+}
