@@ -4,11 +4,6 @@ import Layout from "../components/Layout/Layout";
 import Home from "../screens/home";
 import About from "../screens/about";
 
-
-
-// import Home from './screens/home';
-// import About from './screens/about';
-
 const MyRouter = () => {
 
   return (
